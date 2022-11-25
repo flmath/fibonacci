@@ -15,6 +15,7 @@ HTML export file from Jupyter book provided.
 $ erl
 
 \> c(fibonacci).
+
 \> fibonacci:fib_inefficient(15).
 
 987
